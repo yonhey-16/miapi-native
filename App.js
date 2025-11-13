@@ -16,7 +16,8 @@ import Perfil from './componentes/Perfil';
 import Logout from './componentes/Logout';
 
 
-const Tab = createBottomTabNavigator();
+const Tab = createBottomTabNavigator(); 
+
 const Stack = createNativeStackNavigator();
 
 
